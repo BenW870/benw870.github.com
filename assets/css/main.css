@@ -126,9 +126,9 @@ p {
     font-family: 'open_sansregular' Helvetica, Arial, sans-serif;
     }
 
-li {
-    list-style: none;
-    margin-bottom: 10px;
+
+.navbar-nav > li > a {
+    font-family: 'telexregular';
 }
 .front {
     background-color: #fff;
