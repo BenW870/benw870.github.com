@@ -1,0 +1,194 @@
+<!DOCTYPE html><html lang="en">
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>BenW870 | Front Porch</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="assets/css/normalize.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.css">
+    <link rel="stylesheet" href="assets/font/font.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css"> 
+    
+    <script src="assets/js/vendor/modernizr-2.6.2.min.js"></script>
+</head>
+<body>
+<!--[if lt IE 7]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+<!-- Add your site or application content here -->
+    <div class="navbar navbar-fixed-top navbar-inverse">
+        <div class="container">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Title</a>
+                <div class="nav-collapse collapse navbar-responsive-collapse">...
+            </div><!-- /.nav-collapse -->
+        </div><!-- /.container -->
+    </div><!-- /navbar -->
+    
+    <div class="container main">
+        <div class="row top">
+            <div class="col-lg-7">
+                <h1 style="font-size: 5em;">Ben Williams</h1>
+            </div>
+            <div class="col-lg-2">
+                <img src="assets/img/bw.png">
+            </div>
+            <div class="col-lg-3">
+            <address>
+                <strong>Ben Williams</strong><br>
+                125 Roberts Ridge Terr<br>
+                Hot Springs, Ar 71901<br>
+                <i class="icon-phone"></i> &nbsp (501) 624-5341<br>
+                <i class="icon-mobile-phone"></i> &nbsp (501) 545-3605
+            </address>
+            <address>
+                <a href="mailto:#">Benw870@gmail.com</a>
+            </address> 
+            </div>
+        </div>  
+        <br>
+    
+        <div class="row top"><!-- work -->
+            <div class="col-lg-3">
+                <h2>Work History</h2>              
+            </div>
+            <div class="col-lg-9">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <a href="http://www.cityhs.net/departments_court_district.html"><h3>Deputy Clerk</h3>
+                        <ul>
+                            <li>Garland County District Court</li>
+                            <li>September 2012 - Now </li>
+                            <li>Hot Springs, AR</li>
+                        </ul>
+                        </a>
+                    </div>
+                    <div class="col-lg-6">  
+                        <p>Receiving cash, credit, checking, and online payments</p>
+                        <p>Answering phones</p>
+                        <p>Filing and other clerical duties
+                        <p>Anything else that needs doing</p>   
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <a href="http://www.jhun.edu.cn/english/">
+                        <h3>English Teacher</h3>
+                        <ul>
+                            <li>Jiang Han University</li>
+                            <li>August 2010 - July 2011</li>
+                            <li>Wuhan, Hubei, People's Republic of China</li>
+                        </ul>
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                        <p>Developing and executing conversational English lesson plans for college students</p>
+                        <p>Coordinating cultural events with the administration and student groups for 500+ students</p>
+                        <p>Being a resource for any school functioning requiring a native English speaker</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div><!-- /work -->
+        <br>
+        
+        <div class="row top"><!-- school -->
+            <div class="col-lg-3">
+                <h2>Education</h2>              
+            </div>
+            <div class="col-lg-9">
+                <div class="row">
+                    <div class="col-lg-6">
+                <a href="http://ualr.edu/law/"><h3>Bowen School of Law, UALR</h3></a>
+                <ul><li>August 2011 - May 2012</li></ul>    
+                    </div>
+                    <div class="col-lg-6">
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6">
+                <a href="http://www.harding.edu/"><h3>Harding University</h3></a>
+                <ul><li>August 2008 - May 2010</li></ul>    
+                    </div>
+                    <div class="col-lg-6">
+                <p>Graduated with a BA in General Studies</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                <a href="http://www.uark.edu/home/"><h3>University of Arkansas</h3></a>
+                <ul><li>August 2005 - May 2008</li></ul>    
+                    </div>
+                    <div class="col-lg-6">
+                <p>Studied International Relations</p>
+                    </div>
+                </div>
+            </div>
+        </div><!-- /school -->
+        <br>
+        <div class="row"><!-- etc -->
+            <div class="col-lg-3">
+                <h2>Interests & Skills</h2>              
+            </div>
+            <div class="col-lg-9">
+                <div class="row">
+                    <div class="col-lg-6">
+                <h3>Web Design</h3>    
+                    </div>
+                    <div class="col-lg-6">
+                        <p>I've been teaching myself HTML5/CSS3 with a focus on responsive design. I hope to extend my skillset by learning more programming languages such as Ruby, Javascript, or PHP.</p>
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-lg-6">
+                <h3>Cyber Security</h3>
+                    </div>
+                    <div class="col-lg-6">
+                        <p>Living and working in China made me aware of certain dangers online. This prompted me to learn about browsing anonymously, encryption, and related skills.</p>
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-lg-6">
+                <h3>Other Interests</h3>
+                    </div>
+                    <div class="col-lg-6">
+                        <p>Like anyone raised in Arkansas, I enjoy hunting, fishing, and target shooting. I also like to cook.</p>
+                    </div>
+                </div>
+            </div>
+       </div><!-- /etc -->
+        <br>    
+    </div><!-- /container -->
+   
+<!-- Stop site content here --> 
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="ass/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+    <script src="ass/js/plugins.js"></script>
+    <script src="ass/js/main.js"></script>
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+        (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+        function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+        e.src='//www.google-analytics.com/analytics.js';
+        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+        ga('create','UA-XXXXX-X');ga('send','pageview');
+    </script>
+</body>
+</html>
